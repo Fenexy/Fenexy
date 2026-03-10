@@ -1,5 +1,8 @@
-<img align="center" width="1000" height="400" alt="banner"
-    src="https://github.com/user-attachments/assets/3c5c4599-b8f4-4f94-a148-a2a280c14749">
+<div align="center">
+    <img align="center" width="1000" height="250" style="vertical-align:middle;" src="https://github.com/user-attachments/assets/9184fed1-7ece-4c26-aaca-901624e6321f">
+</div>
+
+---
 
 # About Me
 
@@ -73,23 +76,18 @@ https://www.roblox.com/games/13469828413/Paranormal-Adventures
 
 ## 💻 Technologies
 
-<div style="display: inline-block;">
-  <img align="center" width="80" height="80" alt="lua logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
-  <img align="center" width="80" height="80" alt="java logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" width="80" height="80" alt="c logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" width="80" height="80" alt="git logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" width="80" height="80" alt="vscode logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" width="80" height="80" alt="blender logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
-  <img align="center" width="80" height="80" alt="figma logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  <img align="right" width="150" height="150" alt="emoji logo"
-    src="https://github.com/user-attachments/assets/c6b72cc3-c728-4705-a775-2a79a65c8c2c">
+<div align="center">
+  <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
+  <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
+  <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 </div>
 
 ---
+
+<div align="center">
+    <img align="center" width="1000" height="250" style="vertical-align:middle;" src="https://github.com/user-attachments/assets/9184fed1-7ece-4c26-aaca-901624e6321f">
+</div>
