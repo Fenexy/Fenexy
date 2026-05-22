@@ -82,6 +82,7 @@ https://www.roblox.com/games/13469828413/Paranormal-Adventures
   <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
   <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
   <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 </div>
