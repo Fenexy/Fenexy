@@ -76,12 +76,12 @@ https://www.roblox.com/games/13469828413/Paranormal-Adventures
 ## 📊 Medium Knowledge
 <div align="center">
     <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
+    <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
 ## 📉 Low Knowledge
 <div align="center">
     <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
 ---
