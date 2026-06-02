@@ -4,23 +4,16 @@
 
 ---
 
-# About Me
-
-💻 **Junior Developer** who started programming as a hobby in **2021 on the Roblox platform**.  
-🎓 Currently studying **Computer Science at UTFPR – Santa Helena (Brazil)**.  
-🚀 Interested in **Full-Stack Development and Game Development**.
-
----
+# 🔍 About Me
 
 ## 📄 Personal Information
 
 - 👤 **Name:** Brandon Monteiro Donisthorpe
-- 📍 **Location:** Brazil  
-- 🎓 **Education:** Computer Science (in progress)  
-- 🌎 **Languages:** Portuguese | English  
+- 🌐 **Location:** Brazil  
+- 🎓 **Education:** Computer Science "UTFPR - Santa Helena" -> In progress
+- 💻 **Developer Level:** Junior -> Started programming as a hobby in 2021 on the Roblox platform
+- 🌎 **Languages:** Portuguese (Main) **|** English (Fluent)
 - 💼 **Focus:** Full-stack development
-
----
 
 ## 🚀 Current Goals
 
@@ -28,19 +21,16 @@
 - Learn new programming languages and technologies  
 - Explore different areas of software development
 
----
-
 ## 🧠 Technical Interests
 
-- Game Development  
-- Experimenting with new technologies  
-- Full-stack applications
+- Full-Stack Development
+- Game Development
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🏋️ Gymsolver
+## 🏋️ Gymsolver
 
 A **college project** focused on **gym management**, including:
 
@@ -53,7 +43,7 @@ A **college project** focused on **gym management**, including:
 🔗 Repository:  
 https://github.com/EduardoStaudt/gymsolver-poo
 
-### 👻 Paranormal Adventures
+## 👻 Paranormal Adventures
 
 A **fan-made Roblox game** inspired by the *Ordem Paranormal* series (not official content).  
 The project focuses on creating a **paranormal investigation experience**, where players explore mysterious environments, face supernatural threats, and uncover hidden secrets.
@@ -74,17 +64,37 @@ https://www.roblox.com/games/13469828413/Paranormal-Adventures
 
 ---
 
-## 💻 Technologies
+# 💻 Programming Languages
+
+## 📈 High Knowledge
+<div align="center">
+    <img width="80" height="80" style="vertical-align:middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Luau_logo.png/960px-Luau_logo.png?_=20250215163438">
+    <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
+    <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+</div>
+
+## 📊 Medium Knowledge
+<div align="center">
+    <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
+</div>
+
+## 📉 Low Knowledge
+<div align="center">
+    <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+</div>
+
+---
+
+# 💻 Developer Tools
 
 <div align="center">
-  <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
-  <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
-  <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
-  <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+    <img width="80" height="80" style="vertical-align:middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Roblox_Studio_logo_-_2022.svg/500px-Roblox_Studio_logo_-_2022.svg.png">
+    <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
+    <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
+    <img width="80" height="80" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 </div>
 
 ---
