@@ -30,20 +30,7 @@
 
 # 📌 Featured Projects
 
-## 🏋️ Gymsolver
-
-A **college project** focused on **gym management**, including:
-
-- Membership plan system  
-- User management  
-- Automatic data tracking for better monitoring  
-
-⚙️ **Technologies used:** Java + SQLite  
-
-🔗 Repository:  
-https://github.com/EduardoStaudt/gymsolver-poo
-
-## 👻 Paranormal Adventures
+## 👻 Paranormal Adventures (2023)
 
 A **fan-made Roblox game** inspired by the *Ordem Paranormal* series (not official content).  
 The project focuses on creating a **paranormal investigation experience**, where players explore mysterious environments, face supernatural threats, and uncover hidden secrets.
@@ -61,6 +48,38 @@ The project focuses on creating a **paranormal investigation experience**, where
 
 🎮 Game Link:  
 https://www.roblox.com/games/13469828413/Paranormal-Adventures
+
+## 🏋️ Gymsolver (2025)
+
+A **college project** focused on **gym management**, including:
+
+- Membership plan system  
+- User management  
+- Automatic data tracking for better monitoring  
+
+⚙️ **Technologies used:** Java + SQLite
+
+🔗 Repository:  
+https://github.com/EduardoStaudt/gymsolver-poo
+
+## 🧩 Hero Maze (2026)
+A **college project** focused on an educational 2D maze game, combining gameplay with learning concepts from computer science and school subjects.
+
+- 8 themed levels, each based on a different school subject
+- Educational content covering graph theory, pathfinding algorithms (A*) and conditional logic
+- Player account system with persistent login and offline synchronization
+- Online leaderboard with scores and completion times
+- Coin collection, in-game shop and character skins
+- Boss battles, quizzes and interactive educational content
+
+**My contributions:**
+Responsible for the frontend and backend programming of the game, except for database implementation and the graph path indicator system.
+Other team members were responsible for the sprites, maps, screens and other visual assets.
+
+⚙️ **Technologies used (by me):** Godot 4.6 + GDScript
+
+🎮 Game Link:
+https://thefenexy.itch.io/hero-maze
 
 ---
 
